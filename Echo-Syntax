@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>This is Lutfar's 1st PHP code practice (This is heading1)</h1>
+<?php
+
+
+echo "Now practicing echo. I am working hard to learn PHP. I have a big dream but no team. </BR>
+        I will have to move forward alone and lonely.</BR>
+        I have to learn.</BR>
+        I have to Deploy.</BR>
+        I have to deliver.";
+$color1 = "red";
+$color2 = "blue";
+echo "I am building a car game. There will have cars of different colors. There will have " .$color1. "<br>";
+
+
+echo "My car is " . $color2 . "<br>";
+?>
+</body>
+</html>
